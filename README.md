@@ -241,4 +241,4 @@ This repository serves as the official landing page for MotoGP 2. The software i
 **Get the most recent version of MotoGP 2 today!**
 
 ---
-**Last updated:** 2026-10-18 14:25:41 UTC
+**Last updated:** 2026-10-18 17:57:09 UTC
